@@ -14,3 +14,5 @@ while (index < a)
     }
     index++;
 }
+
+Console.Write($"\n");
